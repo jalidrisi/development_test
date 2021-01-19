@@ -36,6 +36,6 @@ Paper Dashboard 2
 ```
 
 ## Getting started
-- Clone the repository 
-- Open webpage.html in any browswer to see the grid and the chart
+- Clone or download the repository 
+- Open webpage.html file in any browser to see the grid and the chart
 
